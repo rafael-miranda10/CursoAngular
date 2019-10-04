@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MyApp",
+    "\\MyApp\\src",
+    "\\MyApp\\src\\app",
+    "\\MyApp\\src\\app\\my-second"
   ],
+  "SelectedNode": "\\MyApp\\src\\app\\my-second\\my-second.component.ts",
   "PreviewInSolutionExplorer": false
 }
